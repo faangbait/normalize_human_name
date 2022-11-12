@@ -1,9 +1,9 @@
-# normalize_human_name
+# formatname
 
 Usage:
 ```python
 
-from normalize_human_name import normalize
+from formatname import normalize
 print(normalize("Abramović, Boško"))
 
 ```
